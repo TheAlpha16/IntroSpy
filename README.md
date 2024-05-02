@@ -29,4 +29,4 @@ $ python main.py
 
 To know about docker installation check [this](https://docs.docker.com/engine/install/)
 
-This project was done under the mentorship of Prof. Tarachand Amgoth, students: @TheAlpha16 and @JBadgujar
+This project was done under the mentorship of Prof. Tarachand Amgoth, students: [@TheAlpha16](https://github.com/TheAlpha16) and [@JBadgujar](https://github.com/JBadgujar)
